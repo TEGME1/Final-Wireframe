@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Final-Wireframe/static/css/main.5be6278d.css",
+    "main.js": "/Final-Wireframe/static/js/main.7787093e.js",
+    "index.html": "/Final-Wireframe/index.html",
+    "main.5be6278d.css.map": "/Final-Wireframe/static/css/main.5be6278d.css.map",
+    "main.7787093e.js.map": "/Final-Wireframe/static/js/main.7787093e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be6278d.css",
+    "static/js/main.7787093e.js"
+  ]
+}
